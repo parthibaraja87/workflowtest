@@ -157,11 +157,10 @@
         <mxCell id="IYYRd94oWTGOq6J_OclC-46" value="S4 HANA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="40" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IYYRd94oWTGOq6J_OclC-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.998;entryY=-0.233;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IYYRd94oWTGOq6J_OclC-44" target="IYYRd94oWTGOq6J_OclC-34">
+        <mxCell id="IYYRd94oWTGOq6J_OclC-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.998;entryY=-0.233;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.7;exitDx=0;exitDy=0;" edge="1" parent="1" source="IYYRd94oWTGOq6J_OclC-56" target="IYYRd94oWTGOq6J_OclC-34">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="520" y="317" />
-              <mxPoint x="520" y="317" />
+              <mxPoint x="600" y="317" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -174,8 +173,20 @@
         <mxCell id="IYYRd94oWTGOq6J_OclC-50" value="Request Background Job" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="170" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IYYRd94oWTGOq6J_OclC-51" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IYYRd94oWTGOq6J_OclC-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IYYRd94oWTGOq6J_OclC-51" target="IYYRd94oWTGOq6J_OclC-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IYYRd94oWTGOq6J_OclC-51" value="Job Queue" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IYYRd94oWTGOq6J_OclC-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.7;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IYYRd94oWTGOq6J_OclC-53" target="IYYRd94oWTGOq6J_OclC-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IYYRd94oWTGOq6J_OclC-53" value="Background Job" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IYYRd94oWTGOq6J_OclC-56" value="Execution result" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="280" width="80" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
