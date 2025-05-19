@@ -185,8 +185,11 @@
         <mxCell id="IYYRd94oWTGOq6J_OclC-53" value="Background Job" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IYYRd94oWTGOq6J_OclC-56" value="Execution result" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IYYRd94oWTGOq6J_OclC-56" value="&lt;b&gt;CBO&lt;/b&gt; Execution result" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="280" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IYYRd94oWTGOq6J_OclC-59" value="Create Call accounts" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="280" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
