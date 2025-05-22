@@ -143,7 +143,7 @@
           <mxGeometry x="560" y="371.5" width="36.5" height="36.5" as="geometry" />
         </mxCell>
         <mxCell id="yJykGTTqn81DHPjlIyoI-81" value="&lt;font style=&quot;font-size: 9px;&quot; face=&quot;arial&quot; color=&quot;#1d2d3e&quot;&gt;&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;&lt;b style=&quot;&quot;&gt;Adaptor&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=top;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];" vertex="1" parent="yJykGTTqn81DHPjlIyoI-1">
-          <mxGeometry x="535" y="408" width="125" height="22" as="geometry" />
+          <mxGeometry x="530" y="408" width="125" height="22" as="geometry" />
         </mxCell>
         <mxCell id="yJykGTTqn81DHPjlIyoI-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="yJykGTTqn81DHPjlIyoI-1" source="yJykGTTqn81DHPjlIyoI-80" target="yJykGTTqn81DHPjlIyoI-18">
           <mxGeometry relative="1" as="geometry">
